@@ -1,0 +1,27 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "system_error": "c",
+        "my.h": "c",
+        "graphics.h": "c",
+        "struct.h": "c",
+        "free_all.C": "cpp",
+        "*.tcc": "c",
+        "deque": "c",
+        "string": "c",
+        "unordered_map": "c",
+        "vector": "c",
+        "functional": "c",
+        "memory_resource": "c",
+        "algorithm": "c",
+        "random": "c",
+        "istream": "c",
+        "numeric": "c",
+        "cmath": "c",
+        "tuple": "c",
+        "utility": "c",
+        "type_traits": "c",
+        "streambuf": "c"
+    }
+}
