@@ -20,6 +20,8 @@ all: $(NAME)
 $(NAME):
 	make -C ./lib/my all
 	gcc -o $(NAME) $(FLAGS) $(IFLAGS) $(SRC) $(CSFLAGS) $(LFLAGS)
+	clear
+
 clean:
 	make -C ./lib/my clean
 	rm -f *~
@@ -30,6 +32,8 @@ val:
 fclean: clean
 	make -C ./lib/my fclean
 	rm -f $(NAME)
+	clear
 
 re : fclean all
 	make -C ./lib/my re
+	clear
