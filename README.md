@@ -1,14 +1,12 @@
 First, you need to compile the game. To do it, you need to "make", with the command "make" for compile the game, or "make re" to recompile the game.
 
-        Like this:
-            make
-        Or like this;
-            make re
+Like this:
+            ```make``` or like this : ```make re```
 
 After that, you will have an executable named "my_runner" and you must execute him with a map located in the map folder. By default, there are 1 map that i created, and one file named "custom map", so like that you can create your custom map (place a "1" for create an obstacle).
 
-        For launch the game:
-            ./my_runner map/the_map_you_want_to_load
+For launch the game:
+            ```./my_runner map/the_map_you_want_to_load```
 
 Now enjoy !
 
