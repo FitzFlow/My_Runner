@@ -13,7 +13,4 @@ Now enjoy !
 PS: I developed my game in fedora with CSFML and other lib, so I can't be sure it will compile or run in Windows.
     After you can try to install all the packages needed.
 
-PS2: If you are an EPITECH Student, don't try to stole my code, MARVIN is everywhere and sees everything...
-
-By FitzFlow
-    All rights reserved. ©
+PS2: If you are an EPITECH Student, don't stole my code
